@@ -1,5 +1,6 @@
 
 import './App.css';
+import './style.css';
 import myWonderfulImage from "./imageInSrc.png";
 
 function App() {

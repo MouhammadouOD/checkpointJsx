@@ -17,11 +17,11 @@ function App() {
       <img src="imageInPublic.png" alt="img2"></img>
 
 
-      <vidéo width="320" height="240" contrôles>
+      <video width="320" height="240" controls>
 
-      <source src="maVidéo.mp4" type="video/mp4" ></source>
+      <source src="myVideo.mp4" type="video/mp4" ></source>
 
-      </vidéo>
+      </video>
 
     </div>
   );
